@@ -4,6 +4,7 @@ const dev = () => {
   return (
     <div>
       <div>Dev</div>
+      <div>Branch Updated</div>
     </div>
   )
 }
